@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao perfil da Jacque Nunes 😁
+## Bem-vindo(a) ao perfil da Jacqueline Nunes 😁
 
  <div>
-   <a href="https://github.com/devemdobro">
+   <a href="https://github.com/jacquenunes">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacqueNunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacqueNunes&layout=compact&langs_count=6&theme=tokyonight"/>
 
@@ -21,7 +21,9 @@
   <a href="https://www.instagram.com/jacquelinenunes/?theme=dark" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a></a> 
   <a href = "mailto:jnunes.vicente@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jacqueline-nunes-vicente-39a9991b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jacqueline-nunes-vicente-39a9991b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+  
  
   ![Snake animation](https://github.com/JacqueNunes/JacqueNunes/blob/output/github-contribution-grid-snake.svg)
 
