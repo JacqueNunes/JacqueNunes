@@ -4,24 +4,36 @@
 
  <div align="center">
    <a href="https://github.com/jacquenunes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacqueNunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacqueNunes&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="280em" src="https://github-readme-stats.vercel.app/api?username=JacqueNunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacqueNunes&layout=compact&langs_count=6&theme=tokyonight"/>
     
 ##  Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br><br>
+<br><br> --> 
 
 </div>
+ <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+<!--    <img align="center" alt="Clara-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp; &nbsp; &nbsp; &nbsp; -->
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp; &nbsp; &nbsp; &nbsp; 
+
+  <br>
+ <br>
+
+
 <!-- <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<!--   <img align="center" alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="left" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp; &nbsp; &nbsp; &nbsp;
+ <img align="left" alt="Github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">&nbsp; &nbsp; &nbsp; &nbsp;
 </div> -->
  
  <br>
@@ -44,6 +56,10 @@
 <a href="https://www.instagram.com/jacquelinenunes" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jacquelinenunes-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-jacquelinenunes-05122A?style=flat&logo=discord" alt="instagram"/>
+</a>
+ 
 <a href="mailto:jnunes.vicente@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-jacquelinenunes-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
