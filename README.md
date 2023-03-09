@@ -4,8 +4,8 @@
 
  <div align="center">
    <a href="https://github.com/jacquenunes">
-   <img height="280em" src="https://github-readme-stats.vercel.app/api?username=JacqueNunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacqueNunes&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacqueNunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacqueNunes&layout=compact&langs_count=6&theme=tokyonight"/>
     
 ##  Tech Stack
 
